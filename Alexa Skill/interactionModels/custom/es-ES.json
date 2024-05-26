@@ -1,0 +1,212 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "Para"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "IesAngelCorella",
+          "samples": [
+            "abre ies angel corella",
+            "Qué es el IES Ángel Corella",
+            "Dime algo sobre el IES Ángel Corella",
+            "Abre",
+            "Ábreme IES Ángel Corella",
+            "Inicia IES Ángel Corella",
+            "Empieza con IES Ángel Corella",
+            "Abre la skill de IES Ángel Corella"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "OfertaEducativaIntent",
+          "samples": [
+            "Cuál es el programa educativo",
+            "Qué cursos ofrece la escuela",
+            "Háblame sobre los programas académicos",
+            "Explícame las opciones educativas",
+            "Cuál es la oferta educativa",
+            "Qué oferta educativa ofrece el centro",
+            "Oferta Educativa"
+          ]
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "EducacionSecundariaObligatoriaIntent",
+          "samples": [
+            "Cursos de educación secundaria obligatoria",
+            "Información sobre la educación secundaria",
+            "Niveles de ESO en el IES Ángel Corella",
+            "Educación secundaria obligatoria en el IES Ángel Corella",
+            "Educación Secundaria Obligatoria",
+            "ESO",
+            "Educacion secundaria obligatoria"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "BachilleratoIntent",
+          "samples": [
+            "Estudios de bachillerato",
+            "Bachillerato"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FormacionProfesionalIntent",
+          "samples": [
+            "Carreras de F.P",
+            "Formación Profesional"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FormacionProfesionalBasicaIntent",
+          "samples": [
+            "Formacion Profesional Basica",
+            "Grado Basico",
+            "Basica",
+            "Formación Profesional de Grado Básico"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FormacionProfesionalMediaIntent",
+          "samples": [
+            "Formacion Profesional Media",
+            "Ciclos Formativos de Grado Medio",
+            "Estudios de grado medio",
+            "Media",
+            "Grado medio"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FormacionProfesionalSuperiorIntent",
+          "samples": [
+            "Superior",
+            "Estudios de grado superior",
+            "Ciclos Formativos de Grado Superior",
+            "Grado superior",
+            "Formacion Profesional Superior"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "AdmisionIntent",
+          "samples": [
+            "Matriculación",
+            "Admision y matriculación",
+            "Cuál es el proceso de admisión",
+            "Proceso de admision",
+            "Admision "
+          ]
+        },
+        {
+          "slots": [],
+          "name": "NoticiasIntent",
+          "samples": [
+            "Dime que noticias tenemos",
+            "Noticias"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPSEnseAnimSociodeportivaIntent",
+          "samples": [
+            "Enseñanza y animación sociodeportiva"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPSAdminFinanzasIntent",
+          "samples": [
+            "Administración y finanzas"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPSDesarrolloWebIntent",
+          "samples": [
+            "Desarrollo de aplicaciones web"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPSDesarrolloMultiIntent",
+          "samples": [
+            "Desarrollo de aplicaciones multiplataforma"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPMSMicroRedesIntent",
+          "samples": [
+            "Sistemas microinformaticos y redes"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPMAdminGestionIntent",
+          "samples": [
+            "Administracion y gestion grado medio"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPMInstalacionesElectricasIntent",
+          "samples": [
+            "Instalaciones electricas y automaticas"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPBElectricidadIntent",
+          "samples": [
+            "Electricidad y electronica"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FPBAdminGestionIntent",
+          "samples": [
+            "Administracion y gestion"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "InformacionIntent",
+          "samples": [
+            "Informacion del centro",
+            "Informacion",
+            "Informacion acerca del centro",
+            "Que ofrece el centro"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "ies angel corella"
+    }
+  }
+}
